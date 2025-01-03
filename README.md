@@ -1,3 +1,5 @@
+**NOTE: This project is deprecated.**
+
 # Broadcast Application v2.1
 
 The Broadcast Application is an open source web application that can be launched on any ATSC 3.0 compatible physical or virtual receiver, leveraging the A/344 Interactive Content Runtime, to help accelerate developer insight and experience with NextGen TV interactive experiences.
